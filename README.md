@@ -1,3 +1,3 @@
 # bearcoin
 
-Creaciond de Crypto Bear Coin
+Creacion de Crypto Bear Coin
